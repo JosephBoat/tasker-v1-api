@@ -1,0 +1,9 @@
+Django==5.0.3
+djangorestframework==3.15.0
+djangorestframework-simplejwt==5.3.1
+django-cors-headers==4.3.1
+django-filter==24.2
+psycopg2-binary==2.9.9   # PostgreSQL
+Pillow==10.3.0           # images for profile pics/attachments
+django-environ==0.11.2   # env vars
+drf-spectacular==0.27.0  # API docs
